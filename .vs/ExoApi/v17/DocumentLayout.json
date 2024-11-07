@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TRIP\u00C9\\Desktop\\Docs\\ExoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50B6B9-F585-4ABD-A7AA-8DC4819B5D09}|ExoApi\\ExoApi.csproj|c:\\users\\trip\u00E9\\desktop\\docs\\exoapi\\exoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50B6B9-F585-4ABD-A7AA-8DC4819B5D09}|ExoApi\\ExoApi.csproj|solutionrelative:exoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50B6B9-F585-4ABD-A7AA-8DC4819B5D09}|ExoApi\\ExoApi.csproj|c:\\users\\trip\u00E9\\desktop\\docs\\exoapi\\exoapi\\repositories\\projetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50B6B9-F585-4ABD-A7AA-8DC4819B5D09}|ExoApi\\ExoApi.csproj|solutionrelative:exoapi\\repositories\\projetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50B6B9-F585-4ABD-A7AA-8DC4819B5D09}|ExoApi\\ExoApi.csproj|c:\\users\\trip\u00E9\\desktop\\docs\\exoapi\\exoapi\\contexts\\exoapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50B6B9-F585-4ABD-A7AA-8DC4819B5D09}|ExoApi\\ExoApi.csproj|solutionrelative:exoapi\\contexts\\exoapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50B6B9-F585-4ABD-A7AA-8DC4819B5D09}|ExoApi\\ExoApi.csproj|c:\\users\\trip\u00E9\\desktop\\docs\\exoapi\\exoapi\\controllers\\projetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50B6B9-F585-4ABD-A7AA-8DC4819B5D09}|ExoApi\\ExoApi.csproj|solutionrelative:exoapi\\controllers\\projetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50B6B9-F585-4ABD-A7AA-8DC4819B5D09}|ExoApi\\ExoApi.csproj|c:\\users\\trip\u00E9\\desktop\\docs\\exoapi\\exoapi\\domains\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50B6B9-F585-4ABD-A7AA-8DC4819B5D09}|ExoApi\\ExoApi.csproj|solutionrelative:exoapi\\domains\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjetosController.cs",
+              "DocumentMoniker": "C:\\Users\\TRIP\u00C9\\Desktop\\Docs\\ExoApi\\ExoApi\\Controllers\\ProjetosController.cs",
+              "RelativeDocumentMoniker": "ExoApi\\Controllers\\ProjetosController.cs",
+              "ToolTip": "C:\\Users\\TRIP\u00C9\\Desktop\\Docs\\ExoApi\\ExoApi\\Controllers\\ProjetosController.cs",
+              "RelativeToolTip": "ExoApi\\Controllers\\ProjetosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:23:21.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjetoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TRIP\u00C9\\Desktop\\Docs\\ExoApi\\ExoApi\\Repositories\\ProjetoRepository.cs",
+              "RelativeDocumentMoniker": "ExoApi\\Repositories\\ProjetoRepository.cs",
+              "ToolTip": "C:\\Users\\TRIP\u00C9\\Desktop\\Docs\\ExoApi\\ExoApi\\Repositories\\ProjetoRepository.cs",
+              "RelativeToolTip": "ExoApi\\Repositories\\ProjetoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:06:05.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExoApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\TRIP\u00C9\\Desktop\\Docs\\ExoApi\\ExoApi\\Contexts\\ExoApiContext.cs",
+              "RelativeDocumentMoniker": "ExoApi\\Contexts\\ExoApiContext.cs",
+              "ToolTip": "C:\\Users\\TRIP\u00C9\\Desktop\\Docs\\ExoApi\\ExoApi\\Contexts\\ExoApiContext.cs",
+              "RelativeToolTip": "ExoApi\\Contexts\\ExoApiContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:47:36.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projeto.cs",
+              "DocumentMoniker": "C:\\Users\\TRIP\u00C9\\Desktop\\Docs\\ExoApi\\ExoApi\\Domains\\Projeto.cs",
+              "RelativeDocumentMoniker": "ExoApi\\Domains\\Projeto.cs",
+              "ToolTip": "C:\\Users\\TRIP\u00C9\\Desktop\\Docs\\ExoApi\\ExoApi\\Domains\\Projeto.cs",
+              "RelativeToolTip": "ExoApi\\Domains\\Projeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:29:54.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TRIP\u00C9\\Desktop\\Docs\\ExoApi\\ExoApi\\Program.cs",
+              "RelativeDocumentMoniker": "ExoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\TRIP\u00C9\\Desktop\\Docs\\ExoApi\\ExoApi\\Program.cs",
+              "RelativeToolTip": "ExoApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:26:12.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
